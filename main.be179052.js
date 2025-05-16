@@ -9848,7 +9848,7 @@
                                         children: "Detailed Video Information"
                                     }), (0,
                                     he.jsx)("video", {
-                                        src: "https://cdn.glitch.global/04223cf5-c2c7-4a98-99b2-9da638394728/WhatsApp%20Video%202024-11-26%20at%2013.24.43_9bcb50f5.mp4?v=1732616291608",
+                                        src: "https://cdn.glitch.global/c70abe87-e482-4003-807e-07e3f5ba7c77/detailed-video.mp4?v=1747311191517",
                                         controls: !0,
                                         poster: me,
                                         autoPlay: !0
